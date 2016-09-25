@@ -121,7 +121,7 @@ def print_title():
     print "      Google Analytics Attack     "
     print "    By Tyler Rosonke (@ZonkSec)   "
     print "----------------------------------\n"
-    print "User Guide: http://www.zonksec.com/[blogpostlink]\n"
+    print "User-Guide: http://www.zonksec.com/blog/social-engineering-google-analytics/\n"
     print "References:"
     print "-https://developers.google.com/analytics/devguides/collection/protocol/v1/reference"
     print "-https://developers.google.com/analytics/devguides/collection/protocol/v1/parameters\n\n"
